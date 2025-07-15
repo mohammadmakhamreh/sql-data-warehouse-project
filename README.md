@@ -71,7 +71,6 @@ data-warehouse-project/
 ├── LICENSE                 # License for the project
 ├── .gitignore              # Git ignore rules
 └── requirements.txt        # Project setup requirements
-ing it now!
 ├── LICENSE
 ├── .gitignore
 └── requirements.txt # Project setup requirements
