@@ -54,4 +54,18 @@ This project includes:
 ---
 
 ## 🧰 Project Files Structure
-
+data-warehouse-project/
+│
+├── datasets/ # Raw ERP & CRM CSV data
+├── docs/ # Documentation & diagrams (ETL, data flow, models)
+│
+├── scripts/ # SQL scripts for each layer
+│ ├── bronze/ # Load raw data
+│ ├── silver/ # Clean & transform
+│ ├── gold/ # Build star schema
+│
+├── tests/ # Data quality tests
+├── README.md # You’re reading it now!
+├── LICENSE
+├── .gitignore
+└── requirements.txt # Project setup requirements
