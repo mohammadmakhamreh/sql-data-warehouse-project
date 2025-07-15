@@ -53,19 +53,25 @@ This project includes:
 
 ---
 
-## 🧰 Project Files Structure
+## 📂 Project Folder Structure
+
+```text
 data-warehouse-project/
 │
-├── datasets/ # Raw ERP & CRM CSV data
-├── docs/ # Documentation & diagrams (ETL, data flow, models)
+├── datasets/               # Raw ERP & CRM CSV data
+├── docs/                   # Documentation & diagrams (ETL, data flow, models)
 │
-├── scripts/ # SQL scripts for each layer
-│ ├── bronze/ # Load raw data
-│ ├── silver/ # Clean & transform
-│ ├── gold/ # Build star schema
+├── scripts/                # SQL scripts for each layer
+│   ├── bronze/             # Load raw data
+│   ├── silver/             # Clean & transform
+│   ├── gold/               # Build star schema
 │
-├── tests/ # Data quality tests
-├── README.md # You’re reading it now!
+├── tests/                  # Data quality tests
+├── README.md               # You’re reading it now!
+├── LICENSE                 # License for the project
+├── .gitignore              # Git ignore rules
+└── requirements.txt        # Project setup requirements
+ing it now!
 ├── LICENSE
 ├── .gitignore
 └── requirements.txt # Project setup requirements
