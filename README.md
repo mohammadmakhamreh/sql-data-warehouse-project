@@ -68,9 +68,4 @@ data-warehouse-project/
 │
 ├── tests/                  # Data quality tests
 ├── README.md               # You’re reading it now!
-├── LICENSE                 # License for the project
-├── .gitignore              # Git ignore rules
-└── requirements.txt        # Project setup requirements
 ├── LICENSE
-├── .gitignore
-└── requirements.txt # Project setup requirements
