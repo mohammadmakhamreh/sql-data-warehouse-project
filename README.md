@@ -22,7 +22,7 @@ We follow the **Medallion Architecture** which organizes data into 3 clear layer
 
 📌  
 **Here's a quick look at the architecture:**  
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/Arch.drawio.png)
 
 ---
 
